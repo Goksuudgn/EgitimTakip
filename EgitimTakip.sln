@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Web", "EgitimTakip.Web\EgitimTakip.Web.csproj", "{86C7AB75-F983-4C6E-A826-78A4B055A7D7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EgitimTakip.Models", "EgitimTakip.Models\EgitimTakip.Models.csproj", "{57104A31-ED22-4052-BD70-75CDED2FBDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EgitimTakip.Data", "EgitimTakip.Data\EgitimTakip.Data.csproj", "{83149401-2CAC-4B41-8E21-CD5C9253F45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C7AB75-F983-4C6E-A826-78A4B055A7D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C7AB75-F983-4C6E-A826-78A4B055A7D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C7AB75-F983-4C6E-A826-78A4B055A7D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C7AB75-F983-4C6E-A826-78A4B055A7D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57104A31-ED22-4052-BD70-75CDED2FBDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57104A31-ED22-4052-BD70-75CDED2FBDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57104A31-ED22-4052-BD70-75CDED2FBDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57104A31-ED22-4052-BD70-75CDED2FBDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83149401-2CAC-4B41-8E21-CD5C9253F45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83149401-2CAC-4B41-8E21-CD5C9253F45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83149401-2CAC-4B41-8E21-CD5C9253F45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83149401-2CAC-4B41-8E21-CD5C9253F45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CA2D0370-A2CD-4D59-9C42-3BA99E386A24}
+	EndGlobalSection
+EndGlobal
